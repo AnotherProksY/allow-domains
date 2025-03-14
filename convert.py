@@ -190,7 +190,7 @@ def generate_srs_domains(domains, output_name):
     os.makedirs(compiled_output_directory, exist_ok=True)
 
     data = {
-        "version": 2,
+        "version": 3,
         "rules": [
             {"domain_suffix": domains}
         ]
@@ -234,7 +234,7 @@ def generate_srs_for_categories(directories, output_json_directory='JSON', compi
                             domains.append(domain)
 
             data = {
-                "version": 2,
+                "version": 3,
                 "rules": [
                     {
                         "domain_suffix": domains
@@ -273,7 +273,7 @@ def generate_srs_subnets(input_file, output_json_directory='JSON', compiled_outp
             if subnet:
                 subnets.append(subnet)
     data = {
-        "version": 2,
+        "version": 3,
         "rules": [
             {
                 "ip_cidr": subnets
@@ -282,14 +282,14 @@ def generate_srs_subnets(input_file, output_json_directory='JSON', compiled_outp
     }
 
     filename = os.path.splitext(os.path.basename(input_file))[0]
-    output_file_path = os.path.join(output_json_directory, f"{filename}_subnets.json")
+    output_file_path = os.path.join(output_json_directory, f"{filename}.json")
 
     with open(output_file_path, 'w', encoding='utf-8') as output_file:
         json.dump(data, output_file, indent=4)
 
     print(f"JSON file generated: {output_file_path}")
 
-    srs_file_path = os.path.join(compiled_output_directory, f"{filename}_subnets.srs")
+    srs_file_path = os.path.join(compiled_output_directory, f"{filename}.srs")
     try:
         subprocess.run(
             ["sing-box", "rule-set", "compile", output_file_path, "-o", srs_file_path], check=True
@@ -314,7 +314,7 @@ def generate_srs_combined(input_subnets_file, input_domains_file, output_json_di
 
     if input_subnets_file == "Subnets/IPv4/discord.lst":
         data = {
-            "version": 2,
+            "version": 3,
             "rules": [
                 {
                     "domain_suffix": domains
@@ -328,7 +328,7 @@ def generate_srs_combined(input_subnets_file, input_domains_file, output_json_di
         }
     else:
         data = {
-            "version": 2,
+            "version": 3,
             "rules": [
                 {
                     "domain_suffix": domains,
@@ -444,12 +444,11 @@ if __name__ == '__main__':
     directories = ['Categories', 'Services']
     generate_srs_for_categories(directories)
 
-    # Sing-box subnets
-    generate_srs_subnets(TelegramSubnets)
-
+    # Sing-box subnets + domains
     generate_srs_combined(DiscordSubnets, "Services/discord.lst")
     generate_srs_combined(TwitterSubnets, "Services/twitter.lst")
     generate_srs_combined(MetaSubnets, "Services/meta.lst")
+    generate_srs_combined(TelegramSubnets, "Services/telegram.lst")
 
     # Xray domains
     prepare_dat_domains(directories, 'russia-inside')
