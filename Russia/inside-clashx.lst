@@ -24,10 +24,12 @@ DOMAIN-SUFFIX,agents.media
 DOMAIN-SUFFIX,ahrefs.com
 DOMAIN-SUFFIX,ai-chat.bsg.brave.com
 DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,aiv-delivery.net
 DOMAIN-SUFFIX,allegro.pl
 DOMAIN-SUFFIX,alphacoders.com
 DOMAIN-SUFFIX,alza.hu
 DOMAIN-SUFFIX,amazfitwatchfaces.com
+DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,amdm.ru
 DOMAIN-SUFFIX,amedia.site
 DOMAIN-SUFFIX,amnezia.org
@@ -50,6 +52,7 @@ DOMAIN-SUFFIX,aol.com
 DOMAIN-SUFFIX,api.service-kp.com
 DOMAIN-SUFFIX,api.theins.info
 DOMAIN-SUFFIX,api.themoviedb.org
+DOMAIN-SUFFIX,api.us-east-1.aiv-delivery.net
 DOMAIN-SUFFIX,arbat.media
 DOMAIN-SUFFIX,archive.ph
 DOMAIN-SUFFIX,archiveofourown.org
@@ -58,6 +61,7 @@ DOMAIN-SUFFIX,assets.heroku.com
 DOMAIN-SUFFIX,atn.ua
 DOMAIN-SUFFIX,att.com
 DOMAIN-SUFFIX,attachments.f95zone.to
+DOMAIN-SUFFIX,atv-ps.amazon.com
 DOMAIN-SUFFIX,autodesk.com
 DOMAIN-SUFFIX,avira.com
 DOMAIN-SUFFIX,azathabar.com
@@ -134,6 +138,7 @@ DOMAIN-SUFFIX,coinsbee.com
 DOMAIN-SUFFIX,coldfilm.xyz
 DOMAIN-SUFFIX,colta.ru
 DOMAIN-SUFFIX,community.sophos.com
+DOMAIN-SUFFIX,completion.amazon.com
 DOMAIN-SUFFIX,contabo.com
 DOMAIN-SUFFIX,coomer.su
 DOMAIN-SUFFIX,copilot.microsoft.com
@@ -243,6 +248,7 @@ DOMAIN-SUFFIX,flipboard.com
 DOMAIN-SUFFIX,flir.com
 DOMAIN-SUFFIX,flir.eu
 DOMAIN-SUFFIX,flourish.studio
+DOMAIN-SUFFIX,fls-na.amazon.com
 DOMAIN-SUFFIX,fls.guru
 DOMAIN-SUFFIX,fluke.com
 DOMAIN-SUFFIX,flukenetworks.com
@@ -407,6 +413,7 @@ DOMAIN-SUFFIX,lookerstudio.google.com
 DOMAIN-SUFFIX,lostfilm.tv
 DOMAIN-SUFFIX,lostfilmtv2.site
 DOMAIN-SUFFIX,lucid.app
+DOMAIN-SUFFIX,m.media-amazon.com
 DOMAIN-SUFFIX,mail-api.proton.me
 DOMAIN-SUFFIX,mailfence.com
 DOMAIN-SUFFIX,mailo.com
@@ -711,6 +718,7 @@ DOMAIN-SUFFIX,tellapart.com
 DOMAIN-SUFFIX,tempmail.plus
 DOMAIN-SUFFIX,temu.com
 DOMAIN-SUFFIX,terraform.io
+DOMAIN-SUFFIX,ters.us-east-1.aiv-delivery.net
 DOMAIN-SUFFIX,the-village.ru
 DOMAIN-SUFFIX,theaudiodb.com
 DOMAIN-SUFFIX,thebarentsobserver.com
@@ -777,6 +785,7 @@ DOMAIN-SUFFIX,ukrtelcdn.net
 DOMAIN-SUFFIX,unian.ua
 DOMAIN-SUFFIX,unscreen.com
 DOMAIN-SUFFIX,upwork.com
+DOMAIN-SUFFIX,us-east-1.aiv-delivery.net
 DOMAIN-SUFFIX,usa.one
 DOMAIN-SUFFIX,vagrantcloud.com
 DOMAIN-SUFFIX,veeam.com
@@ -816,6 +825,7 @@ DOMAIN-SUFFIX,wilsoncenter.org
 DOMAIN-SUFFIX,windows10spotlight.com
 DOMAIN-SUFFIX,wonderzine.com
 DOMAIN-SUFFIX,wpengine.com
+DOMAIN-SUFFIX,www.amazon.com
 DOMAIN-SUFFIX,www3.corsair.com
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,x.com
@@ -836,6 +846,7 @@ DOMAIN-SUFFIX,youtubekids.com
 DOMAIN-SUFFIX,yt-video-upload.l.google.com
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,ytimg.l.google.com
+DOMAIN-SUFFIX,yting.com
 DOMAIN-SUFFIX,yummyani.me
 DOMAIN-SUFFIX,zahav.ru
 DOMAIN-SUFFIX,zapier.com
