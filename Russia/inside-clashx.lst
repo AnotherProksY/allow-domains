@@ -49,6 +49,7 @@ DOMAIN-SUFFIX,anistars.ru
 DOMAIN-SUFFIX,annas-archive.org
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,aol.com
+DOMAIN-SUFFIX,api.jetbrains.ai
 DOMAIN-SUFFIX,api.service-kp.com
 DOMAIN-SUFFIX,api.theins.info
 DOMAIN-SUFFIX,api.themoviedb.org
@@ -294,6 +295,7 @@ DOMAIN-SUFFIX,gonitro.com
 DOMAIN-SUFFIX,goodreads.com
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,gpsonextra.net
+DOMAIN-SUFFIX,gpu-monkey.com
 DOMAIN-SUFFIX,gr-assets.com
 DOMAIN-SUFFIX,grafana.com
 DOMAIN-SUFFIX,grani.ru
@@ -309,6 +311,7 @@ DOMAIN-SUFFIX,hackernoon.com
 DOMAIN-SUFFIX,hackmd.io
 DOMAIN-SUFFIX,halooglasi.com
 DOMAIN-SUFFIX,hashicorp.com
+DOMAIN-SUFFIX,hd-rezka.tv
 DOMAIN-SUFFIX,hdkinoteatr.com
 DOMAIN-SUFFIX,hdrezka.ac
 DOMAIN-SUFFIX,hdrezka.ag
@@ -613,6 +616,7 @@ DOMAIN-SUFFIX,rf.dobrochan.net
 DOMAIN-SUFFIX,riperam.org
 DOMAIN-SUFFIX,roar-review.com
 DOMAIN-SUFFIX,root-nation.com
+DOMAIN-SUFFIX,roskomsvoboda.org
 DOMAIN-SUFFIX,rublacklist.net
 DOMAIN-SUFFIX,rule34.art
 DOMAIN-SUFFIX,rus.delfi.ee
@@ -639,6 +643,7 @@ DOMAIN-SUFFIX,saverudata.net
 DOMAIN-SUFFIX,sci-hub.se
 DOMAIN-SUFFIX,sci-hub.st
 DOMAIN-SUFFIX,sdxcentral.com
+DOMAIN-SUFFIX,searchfloor.org
 DOMAIN-SUFFIX,seasonvar.ru
 DOMAIN-SUFFIX,selezen.org
 DOMAIN-SUFFIX,semnasem.org
@@ -712,6 +717,7 @@ DOMAIN-SUFFIX,svtv.org
 DOMAIN-SUFFIX,swagger.io
 DOMAIN-SUFFIX,swissinfo.ch
 DOMAIN-SUFFIX,synoforum.com
+DOMAIN-SUFFIX,t-invariant.org
 DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,tableau.com
 DOMAIN-SUFFIX,talosintelligence.com
@@ -796,6 +802,7 @@ DOMAIN-SUFFIX,unscreen.com
 DOMAIN-SUFFIX,upwork.com
 DOMAIN-SUFFIX,us-east-1.aiv-delivery.net
 DOMAIN-SUFFIX,usa.one
+DOMAIN-SUFFIX,usatoday.com
 DOMAIN-SUFFIX,vagrantcloud.com
 DOMAIN-SUFFIX,veeam.com
 DOMAIN-SUFFIX,verstka.media
@@ -840,9 +847,15 @@ DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,xhamster.com
 DOMAIN-SUFFIX,xhamsterlive.com
+DOMAIN-SUFFIX,xnxx-cdn.com
+DOMAIN-SUFFIX,xnxx.com
+DOMAIN-SUFFIX,xnxx.net
+DOMAIN-SUFFIX,xnxx.tv
+DOMAIN-SUFFIX,xnxx3.com
 DOMAIN-SUFFIX,xsts.auth.xboxlive.com
 DOMAIN-SUFFIX,xtracloud.net
 DOMAIN-SUFFIX,xv-ru.com
+DOMAIN-SUFFIX,xvideos-cdn.com
 DOMAIN-SUFFIX,xvideos.com
 DOMAIN-SUFFIX,yle.fi
 DOMAIN-SUFFIX,youtu.be
