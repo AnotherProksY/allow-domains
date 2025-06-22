@@ -50,6 +50,8 @@ DOMAIN-SUFFIX,anistars.ru
 DOMAIN-SUFFIX,annas-archive.org
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,aol.com
+DOMAIN-SUFFIX,api.adspower.net
+DOMAIN-SUFFIX,api.data4.net
 DOMAIN-SUFFIX,api.jetbrains.ai
 DOMAIN-SUFFIX,api.service-kp.com
 DOMAIN-SUFFIX,api.theins.info
@@ -60,6 +62,7 @@ DOMAIN-SUFFIX,archive.ph
 DOMAIN-SUFFIX,archiveofourown.org
 DOMAIN-SUFFIX,as6723.net
 DOMAIN-SUFFIX,assets.heroku.com
+DOMAIN-SUFFIX,assets.salesmartly.com
 DOMAIN-SUFFIX,atn.ua
 DOMAIN-SUFFIX,att.com
 DOMAIN-SUFFIX,attachments.f95zone.to
@@ -134,6 +137,7 @@ DOMAIN-SUFFIX,clashofclans.com
 DOMAIN-SUFFIX,clashroyaleapp.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,clickup.com
+DOMAIN-SUFFIX,client.salesmartly.com
 DOMAIN-SUFFIX,clip.opus.pro
 DOMAIN-SUFFIX,cms-twdigitalassets.com
 DOMAIN-SUFFIX,cnd2exp.online
@@ -146,6 +150,7 @@ DOMAIN-SUFFIX,coldfilm.xyz
 DOMAIN-SUFFIX,colta.ru
 DOMAIN-SUFFIX,community.sophos.com
 DOMAIN-SUFFIX,completion.amazon.com
+DOMAIN-SUFFIX,console.data4.net
 DOMAIN-SUFFIX,contabo.com
 DOMAIN-SUFFIX,coomer.su
 DOMAIN-SUFFIX,copilot.microsoft.com
@@ -331,6 +336,7 @@ DOMAIN-SUFFIX,healthline.com
 DOMAIN-SUFFIX,hentai-foundry.com
 DOMAIN-SUFFIX,herokucdn.com
 DOMAIN-SUFFIX,hetzner.com
+DOMAIN-SUFFIX,hm.baidu.com
 DOMAIN-SUFFIX,hollisterco.com
 DOMAIN-SUFFIX,holod.media
 DOMAIN-SUFFIX,home-connect.com
@@ -352,6 +358,7 @@ DOMAIN-SUFFIX,iherb.com
 DOMAIN-SUFFIX,iichan.hk
 DOMAIN-SUFFIX,ilook.tv
 DOMAIN-SUFFIX,image.tmdb.org
+DOMAIN-SUFFIX,img.adspower.net
 DOMAIN-SUFFIX,important-stories.com
 DOMAIN-SUFFIX,indiehackers.com
 DOMAIN-SUFFIX,infineon.com
@@ -744,6 +751,7 @@ DOMAIN-SUFFIX,svtv.org
 DOMAIN-SUFFIX,swagger.io
 DOMAIN-SUFFIX,swissinfo.ch
 DOMAIN-SUFFIX,synoforum.com
+DOMAIN-SUFFIX,sys-test.adspower.net
 DOMAIN-SUFFIX,t-invariant.org
 DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,tableau.com
@@ -873,6 +881,7 @@ DOMAIN-SUFFIX,windows10spotlight.com
 DOMAIN-SUFFIX,windsurf.com
 DOMAIN-SUFFIX,wonderzine.com
 DOMAIN-SUFFIX,wpengine.com
+DOMAIN-SUFFIX,www.adspower-ru.com
 DOMAIN-SUFFIX,www.amazon.com
 DOMAIN-SUFFIX,www3.corsair.com
 DOMAIN-SUFFIX,x.ai
