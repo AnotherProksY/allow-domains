@@ -23,7 +23,7 @@ TelegramSubnets = 'Subnets/IPv4/telegram.lst'
 CloudflareSubnets = 'Subnets/IPv4/cloudflare.lst'
 HetznerSubnets = 'Subnets/IPv4/hetzner.lst'
 OVHSubnets = 'Subnets/IPv4/ovh.lst'
-ExcludeServices = {"telegram.lst", "cloudflare.lst", "google_ai.lst", "google_play.lst", 'hetzner.lst', 'ovh.lst'}
+ExcludeServices = {"cloudflare.lst", "google_ai.lst", "google_play.lst", 'hetzner.lst', 'ovh.lst'}
 
 def raw(src, out):
     domains = set()
@@ -224,7 +224,7 @@ def generate_srs_for_categories(directories, output_json_directory='JSON', compi
     os.makedirs(output_json_directory, exist_ok=True)
     os.makedirs(compiled_output_directory, exist_ok=True)
 
-    exclude = {"meta", "twitter", "discord", "telegram", "hetzner", "ovh"}
+    exclude = {"meta", "twitter", "discord", "hetzner", "ovh"}
 
     for directory in directories:
         for filename in os.listdir(directory):
