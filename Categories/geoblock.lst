@@ -11,6 +11,9 @@ ai.com
 chat.openai.com.cdn.cloudflare.net
 production-openaicom-storage.azureedge.net
 
+githubcopilot.com
+api.github.com
+
 x.ai
 grok.com
 
@@ -21,8 +24,6 @@ notion.site
 notion-static.com
 notion-emojis.s3-us-west-2.amazonaws.com
 code.gist.build
-gemini.google.com
-generativelanguage.googleapis.com
 
 news.google.com
 suggestqueries.google.com
@@ -381,3 +382,6 @@ uizard.io
 grizzlysms.com
 lgthinq.com
 lgeapi.com
+data.cline.bot
+exchanger.bits.media
+tidal.com
