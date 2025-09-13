@@ -58,7 +58,6 @@ ipset=/anthropic.com/vpn_domains
 ipset=/aol.com/vpn_domains
 ipset=/api.adspower.net/vpn_domains
 ipset=/api.data4.net/vpn_domains
-ipset=/api.github.com/vpn_domains
 ipset=/api.jetbrains.ai/vpn_domains
 ipset=/api.service-kp.com/vpn_domains
 ipset=/api.theins.info/vpn_domains
