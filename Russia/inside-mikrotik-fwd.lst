@@ -828,6 +828,7 @@
 /ip dns static add name=squietpc.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=startpage.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=static.lostfilm.top type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=static.whatsapp.net type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=statology.org type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=steamstat.info type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=strana.news type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost

@@ -829,6 +829,7 @@ nftset=/squareup.com/4#inet#fw4#vpn_domains
 nftset=/squietpc.com/4#inet#fw4#vpn_domains
 nftset=/startpage.com/4#inet#fw4#vpn_domains
 nftset=/static.lostfilm.top/4#inet#fw4#vpn_domains
+nftset=/static.whatsapp.net/4#inet#fw4#vpn_domains
 nftset=/statology.org/4#inet#fw4#vpn_domains
 nftset=/steamstat.info/4#inet#fw4#vpn_domains
 nftset=/strana.news/4#inet#fw4#vpn_domains

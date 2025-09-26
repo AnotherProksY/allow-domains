@@ -829,6 +829,7 @@ ipset=/squareup.com/vpn_domains
 ipset=/squietpc.com/vpn_domains
 ipset=/startpage.com/vpn_domains
 ipset=/static.lostfilm.top/vpn_domains
+ipset=/static.whatsapp.net/vpn_domains
 ipset=/statology.org/vpn_domains
 ipset=/steamstat.info/vpn_domains
 ipset=/strana.news/vpn_domains
