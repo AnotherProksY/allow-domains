@@ -118,6 +118,7 @@ DOMAIN-SUFFIX,buf.build
 DOMAIN-SUFFIX,builds.parsec.app
 DOMAIN-SUFFIX,buymeacoffee.com
 DOMAIN-SUFFIX,byteoversea.com
+DOMAIN-SUFFIX,call.whatsapp.com
 DOMAIN-SUFFIX,canva.com
 DOMAIN-SUFFIX,canva.dev
 DOMAIN-SUFFIX,capacitorjs.com
@@ -129,6 +130,7 @@ DOMAIN-SUFFIX,cbilling.eu
 DOMAIN-SUFFIX,cbilling.vip
 DOMAIN-SUFFIX,cdn-telegram.org
 DOMAIN-SUFFIX,cdn.web-platform.io
+DOMAIN-SUFFIX,cdn.whatsapp.net
 DOMAIN-SUFFIX,cdn1.pornhub.com
 DOMAIN-SUFFIX,cdn2.pornhub.com
 DOMAIN-SUFFIX,cdnbunny.org
@@ -137,6 +139,7 @@ DOMAIN-SUFFIX,cdromance.org
 DOMAIN-SUFFIX,cdw.com
 DOMAIN-SUFFIX,censortracker.org
 DOMAIN-SUFFIX,chaos.com
+DOMAIN-SUFFIX,chat.cdn.whatsapp.net
 DOMAIN-SUFFIX,chat.com
 DOMAIN-SUFFIX,chat.openai.com.cdn.cloudflare.net
 DOMAIN-SUFFIX,chatgpt.com
@@ -270,6 +273,7 @@ DOMAIN-SUFFIX,f95-zone.to
 DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,facebook.net
 DOMAIN-SUFFIX,fansly.com
+DOMAIN-SUFFIX,faq.whatsapp.com
 DOMAIN-SUFFIX,fast-torrent.club
 DOMAIN-SUFFIX,fast.com
 DOMAIN-SUFFIX,fb.com
@@ -314,6 +318,7 @@ DOMAIN-SUFFIX,freedomletters.org
 DOMAIN-SUFFIX,freeimages.com
 DOMAIN-SUFFIX,freemedia.io
 DOMAIN-SUFFIX,fxnetworks.com
+DOMAIN-SUFFIX,g.whatsapp.net
 DOMAIN-SUFFIX,gagadget.com
 DOMAIN-SUFFIX,gamedistribution.com
 DOMAIN-SUFFIX,gamesrepack.com
@@ -345,6 +350,7 @@ DOMAIN-SUFFIX,gr-assets.com
 DOMAIN-SUFFIX,grafana.com
 DOMAIN-SUFFIX,grani.ru
 DOMAIN-SUFFIX,graph.org
+DOMAIN-SUFFIX,graph.whatsapp.com
 DOMAIN-SUFFIX,graty.me
 DOMAIN-SUFFIX,graylog.org
 DOMAIN-SUFFIX,grizzlysms.com
@@ -529,6 +535,7 @@ DOMAIN-SUFFIX,middlewareinventory.com
 DOMAIN-SUFFIX,mignews.com
 DOMAIN-SUFFIX,miracleptr.wordpress.com
 DOMAIN-SUFFIX,mixcloud.com
+DOMAIN-SUFFIX,mmg.whatsapp.net
 DOMAIN-SUFFIX,mongodb.com
 DOMAIN-SUFFIX,monoprice.com
 DOMAIN-SUFFIX,more.fm
@@ -660,6 +667,7 @@ DOMAIN-SUFFIX,pornolab.net
 DOMAIN-SUFFIX,portal.lviv.ua
 DOMAIN-SUFFIX,posle.media
 DOMAIN-SUFFIX,postimees.ee
+DOMAIN-SUFFIX,pps.whatsapp.net
 DOMAIN-SUFFIX,pravda.com
 DOMAIN-SUFFIX,pravda.com.ua
 DOMAIN-SUFFIX,premierleague.com
@@ -745,6 +753,7 @@ DOMAIN-SUFFIX,sap.com
 DOMAIN-SUFFIX,saverudata.net
 DOMAIN-SUFFIX,sci-hub.se
 DOMAIN-SUFFIX,sci-hub.st
+DOMAIN-SUFFIX,scontent.whatsapp.net
 DOMAIN-SUFFIX,scryde.io
 DOMAIN-SUFFIX,scryde.net
 DOMAIN-SUFFIX,scryde.ru
@@ -829,6 +838,7 @@ DOMAIN-SUFFIX,squareup.com
 DOMAIN-SUFFIX,squietpc.com
 DOMAIN-SUFFIX,startpage.com
 DOMAIN-SUFFIX,static.lostfilm.top
+DOMAIN-SUFFIX,static.whatsapp.net
 DOMAIN-SUFFIX,statology.org
 DOMAIN-SUFFIX,steamstat.info
 DOMAIN-SUFFIX,strana.news
@@ -956,6 +966,7 @@ DOMAIN-SUFFIX,usa.one
 DOMAIN-SUFFIX,usatoday.com
 DOMAIN-SUFFIX,usercontent.dev
 DOMAIN-SUFFIX,usher.ttvnw.net
+DOMAIN-SUFFIX,v.whatsapp.net
 DOMAIN-SUFFIX,vagrantcloud.com
 DOMAIN-SUFFIX,veeam.com
 DOMAIN-SUFFIX,verstka.media
@@ -1013,6 +1024,7 @@ DOMAIN-SUFFIX,wpengine.com
 DOMAIN-SUFFIX,wunderground.com
 DOMAIN-SUFFIX,www.adspower-ru.com
 DOMAIN-SUFFIX,www.amazon.com
+DOMAIN-SUFFIX,www.whatsapp.com
 DOMAIN-SUFFIX,www3.corsair.com
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,x.com
