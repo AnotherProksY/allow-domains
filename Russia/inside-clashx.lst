@@ -66,6 +66,7 @@ DOMAIN-SUFFIX,api.us-east-1.aiv-delivery.net
 DOMAIN-SUFFIX,apkmirror.com
 DOMAIN-SUFFIX,app.zerossl.com
 DOMAIN-SUFFIX,arbat.media
+DOMAIN-SUFFIX,arc.net
 DOMAIN-SUFFIX,archive.ph
 DOMAIN-SUFFIX,archiveofourown.org
 DOMAIN-SUFFIX,as6723.net
@@ -137,6 +138,7 @@ DOMAIN-SUFFIX,cdnbunny.org
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,cdromance.org
 DOMAIN-SUFFIX,cdw.com
+DOMAIN-SUFFIX,censor.net
 DOMAIN-SUFFIX,censortracker.org
 DOMAIN-SUFFIX,chaos.com
 DOMAIN-SUFFIX,chat.cdn.whatsapp.net
@@ -146,6 +148,7 @@ DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,chaturbate.com
 DOMAIN-SUFFIX,cherta.media
 DOMAIN-SUFFIX,chess.com
+DOMAIN-SUFFIX,chub.ai
 DOMAIN-SUFFIX,cisco.com
 DOMAIN-SUFFIX,cisecurity.org
 DOMAIN-SUFFIX,citrix.com
@@ -153,6 +156,7 @@ DOMAIN-SUFFIX,clamav.net
 DOMAIN-SUFFIX,clashofclans.com
 DOMAIN-SUFFIX,clashroyaleapp.com
 DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,clevelandclinic.org
 DOMAIN-SUFFIX,clickup.com
 DOMAIN-SUFFIX,client.salesmartly.com
 DOMAIN-SUFFIX,clip.opus.pro
@@ -165,6 +169,8 @@ DOMAIN-SUFFIX,codeium.com
 DOMAIN-SUFFIX,coingate.com
 DOMAIN-SUFFIX,coinpayments.net
 DOMAIN-SUFFIX,coinsbee.com
+DOMAIN-SUFFIX,coldfilm.city
+DOMAIN-SUFFIX,coldfilm.ink
 DOMAIN-SUFFIX,coldfilm.xyz
 DOMAIN-SUFFIX,colta.ru
 DOMAIN-SUFFIX,comments.app
@@ -179,6 +185,7 @@ DOMAIN-SUFFIX,corsair.com
 DOMAIN-SUFFIX,coursera.org
 DOMAIN-SUFFIX,cpu-monkey.com
 DOMAIN-SUFFIX,credly.com
+DOMAIN-SUFFIX,croxyproxy.com
 DOMAIN-SUFFIX,crunchyroll.com
 DOMAIN-SUFFIX,csskor.ill.in.ua
 DOMAIN-SUFFIX,cub.red
@@ -188,6 +195,7 @@ DOMAIN-SUFFIX,cvedetails.com
 DOMAIN-SUFFIX,cyberghostvpn.com
 DOMAIN-SUFFIX,cyxymu.info
 DOMAIN-SUFFIX,daemon-tools.cc
+DOMAIN-SUFFIX,dailylviv.com
 DOMAIN-SUFFIX,danbooru.donmai.us
 DOMAIN-SUFFIX,data-cdn.mbamupdates.com
 DOMAIN-SUFFIX,data.cline.bot
@@ -204,6 +212,7 @@ DOMAIN-SUFFIX,depositphotos.com
 DOMAIN-SUFFIX,designer.microsoft.com
 DOMAIN-SUFFIX,designify.com
 DOMAIN-SUFFIX,developer.nvidia.com
+DOMAIN-SUFFIX,devexpress.com
 DOMAIN-SUFFIX,deviantart.com
 DOMAIN-SUFFIX,digash.live
 DOMAIN-SUFFIX,digikey.com
@@ -242,8 +251,11 @@ DOMAIN-SUFFIX,doxa.team
 DOMAIN-SUFFIX,dpidetector.org
 DOMAIN-SUFFIX,dreamhost.com
 DOMAIN-SUFFIX,ducati.com
+DOMAIN-SUFFIX,dumka.media
 DOMAIN-SUFFIX,dw.com
+DOMAIN-SUFFIX,dyson.com
 DOMAIN-SUFFIX,e621.net
+DOMAIN-SUFFIX,easydmarc.com
 DOMAIN-SUFFIX,echofm.online
 DOMAIN-SUFFIX,editorx.com
 DOMAIN-SUFFIX,edu-cisco.org
@@ -255,8 +267,10 @@ DOMAIN-SUFFIX,ekhokavkaza.com
 DOMAIN-SUFFIX,element14.com
 DOMAIN-SUFFIX,elements.envato.com
 DOMAIN-SUFFIX,elevenlabs.io
+DOMAIN-SUFFIX,eneba.com
 DOMAIN-SUFFIX,epidemz.net.co
 DOMAIN-SUFFIX,eporner.com
+DOMAIN-SUFFIX,espreso.tv
 DOMAIN-SUFFIX,etahub.com
 DOMAIN-SUFFIX,etsy.com
 DOMAIN-SUFFIX,euronews.com
@@ -295,6 +309,7 @@ DOMAIN-SUFFIX,flibusta.net
 DOMAIN-SUFFIX,flipboard.com
 DOMAIN-SUFFIX,flir.com
 DOMAIN-SUFFIX,flir.eu
+DOMAIN-SUFFIX,flisland.net
 DOMAIN-SUFFIX,flourish.studio
 DOMAIN-SUFFIX,fls-na.amazon.com
 DOMAIN-SUFFIX,fls.guru
@@ -319,13 +334,16 @@ DOMAIN-SUFFIX,freeimages.com
 DOMAIN-SUFFIX,freemedia.io
 DOMAIN-SUFFIX,fxnetworks.com
 DOMAIN-SUFFIX,g.whatsapp.net
+DOMAIN-SUFFIX,g2a.com
 DOMAIN-SUFFIX,gagadget.com
 DOMAIN-SUFFIX,gamedistribution.com
 DOMAIN-SUFFIX,gamesrepack.com
+DOMAIN-SUFFIX,gamestop.com
 DOMAIN-SUFFIX,gaming.amazon.com
 DOMAIN-SUFFIX,gdb.rferl.org
 DOMAIN-SUFFIX,geforcenow.com
 DOMAIN-SUFFIX,gelbooru.com
+DOMAIN-SUFFIX,genspark.ai
 DOMAIN-SUFFIX,geolocation.onetrust.com
 DOMAIN-SUFFIX,germania.one
 DOMAIN-SUFFIX,getoutline.com
@@ -333,6 +351,9 @@ DOMAIN-SUFFIX,getoutline.org
 DOMAIN-SUFFIX,gfn.am
 DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,ghostrc.game.idtech.services
+DOMAIN-SUFFIX,gifyu.com
+DOMAIN-SUFFIX,glavred.info
+DOMAIN-SUFFIX,glavred.net
 DOMAIN-SUFFIX,global.fncstatic.com
 DOMAIN-SUFFIX,global.platform.seconddinnertech.com
 DOMAIN-SUFFIX,glpals.com
@@ -372,7 +393,12 @@ DOMAIN-SUFFIX,hd-rezka.tv
 DOMAIN-SUFFIX,hdkinoteatr.com
 DOMAIN-SUFFIX,hdrezka.ac
 DOMAIN-SUFFIX,hdrezka.ag
+DOMAIN-SUFFIX,hdrezka.app
 DOMAIN-SUFFIX,hdrezka.me
+DOMAIN-SUFFIX,hdrezka.tech
+DOMAIN-SUFFIX,hdrezka.tv
+DOMAIN-SUFFIX,hdrzk.org
+DOMAIN-SUFFIX,hdstudio.org
 DOMAIN-SUFFIX,healthline.com
 DOMAIN-SUFFIX,hentai-foundry.com
 DOMAIN-SUFFIX,herokucdn.com
@@ -385,10 +411,13 @@ DOMAIN-SUFFIX,home.by.me
 DOMAIN-SUFFIX,hostgator.com
 DOMAIN-SUFFIX,hostinger.com
 DOMAIN-SUFFIX,hotels.com
+DOMAIN-SUFFIX,housebrand.com
 DOMAIN-SUFFIX,hqporner.com
 DOMAIN-SUFFIX,hromadske.ua
 DOMAIN-SUFFIX,hs.fi
 DOMAIN-SUFFIX,htmhell.dev
+DOMAIN-SUFFIX,hume.ai
+DOMAIN-SUFFIX,hybrid-analysis.com
 DOMAIN-SUFFIX,i.sakh.com
 DOMAIN-SUFFIX,ibm.com
 DOMAIN-SUFFIX,ibytedtos.com
@@ -429,6 +458,7 @@ DOMAIN-SUFFIX,ionos.com
 DOMAIN-SUFFIX,iptv.online
 DOMAIN-SUFFIX,is.fi
 DOMAIN-SUFFIX,istories.media
+DOMAIN-SUFFIX,itch.io
 DOMAIN-SUFFIX,itninja.com
 DOMAIN-SUFFIX,itsmycity.ru
 DOMAIN-SUFFIX,jamf.com
@@ -453,6 +483,7 @@ DOMAIN-SUFFIX,kino.pub
 DOMAIN-SUFFIX,kinogo.ec
 DOMAIN-SUFFIX,kinogo.la
 DOMAIN-SUFFIX,kinogo.uk
+DOMAIN-SUFFIX,kinopub.me
 DOMAIN-SUFFIX,kinovod.net
 DOMAIN-SUFFIX,kinozal.guru
 DOMAIN-SUFFIX,kinozal.me
@@ -481,6 +512,7 @@ DOMAIN-SUFFIX,libgen.li
 DOMAIN-SUFFIX,licdn.com
 DOMAIN-SUFFIX,lidarr.audio
 DOMAIN-SUFFIX,lifehacker.com
+DOMAIN-SUFFIX,liga.net
 DOMAIN-SUFFIX,lightning.ai
 DOMAIN-SUFFIX,linear.app
 DOMAIN-SUFFIX,linkedin.com
@@ -492,6 +524,8 @@ DOMAIN-SUFFIX,lolz.guru
 DOMAIN-SUFFIX,lookerstudio.google.com
 DOMAIN-SUFFIX,lostfilm.download
 DOMAIN-SUFFIX,lostfilm.tv
+DOMAIN-SUFFIX,lostfilm.tw
+DOMAIN-SUFFIX,lostfilm.uno
 DOMAIN-SUFFIX,lostfilmtv2.site
 DOMAIN-SUFFIX,lu4.org
 DOMAIN-SUFFIX,lucid.app
@@ -507,6 +541,7 @@ DOMAIN-SUFFIX,mangadex.org
 DOMAIN-SUFFIX,mangahub.ru
 DOMAIN-SUFFIX,mangapark.net
 DOMAIN-SUFFIX,manus.im
+DOMAIN-SUFFIX,manybooks.net
 DOMAIN-SUFFIX,manyvids.com
 DOMAIN-SUFFIX,marvelsnap.com
 DOMAIN-SUFFIX,mashable.com
@@ -517,6 +552,7 @@ DOMAIN-SUFFIX,mediazona.ca
 DOMAIN-SUFFIX,medicalnewstoday.com
 DOMAIN-SUFFIX,medium.com
 DOMAIN-SUFFIX,meduza.io
+DOMAIN-SUFFIX,mega.nz
 DOMAIN-SUFFIX,megapeer.ru
 DOMAIN-SUFFIX,megapeer.vip
 DOMAIN-SUFFIX,merezha.co
@@ -536,6 +572,7 @@ DOMAIN-SUFFIX,mignews.com
 DOMAIN-SUFFIX,miracleptr.wordpress.com
 DOMAIN-SUFFIX,mixcloud.com
 DOMAIN-SUFFIX,mmg.whatsapp.net
+DOMAIN-SUFFIX,modrinth.com
 DOMAIN-SUFFIX,mongodb.com
 DOMAIN-SUFFIX,monoprice.com
 DOMAIN-SUFFIX,more.fm
@@ -548,6 +585,7 @@ DOMAIN-SUFFIX,muscdn.com
 DOMAIN-SUFFIX,musical.ly
 DOMAIN-SUFFIX,musixmatch.com
 DOMAIN-SUFFIX,mw2.wiki
+DOMAIN-SUFFIX,myanimelist.net
 DOMAIN-SUFFIX,mydoramy.club
 DOMAIN-SUFFIX,myheritage.com
 DOMAIN-SUFFIX,myjetbrains.com
@@ -557,6 +595,7 @@ DOMAIN-SUFFIX,navalny.com
 DOMAIN-SUFFIX,nba.com
 DOMAIN-SUFFIX,neformat.com.ua
 DOMAIN-SUFFIX,neo4j.com
+DOMAIN-SUFFIX,netapp.com
 DOMAIN-SUFFIX,netflix.ca
 DOMAIN-SUFFIX,netflix.com
 DOMAIN-SUFFIX,netflix.net
@@ -601,11 +640,13 @@ DOMAIN-SUFFIX,novaline.fm
 DOMAIN-SUFFIX,novaya.no
 DOMAIN-SUFFIX,novayagazeta.eu
 DOMAIN-SUFFIX,novayagazeta.ru
+DOMAIN-SUFFIX,novyny.live
 DOMAIN-SUFFIX,ntc.party
 DOMAIN-SUFFIX,ntp.msn.com
 DOMAIN-SUFFIX,nxp.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,obozrevatel.com
 DOMAIN-SUFFIX,ocstore.com
 DOMAIN-SUFFIX,oculus.com
 DOMAIN-SUFFIX,ohmyswift.ru
@@ -631,6 +672,7 @@ DOMAIN-SUFFIX,ovd.news
 DOMAIN-SUFFIX,ovdinfo.org
 DOMAIN-SUFFIX,ozodi.org
 DOMAIN-SUFFIX,pages.dev
+DOMAIN-SUFFIX,pandasecurity.com
 DOMAIN-SUFFIX,pap.pl
 DOMAIN-SUFFIX,paperpaper.io
 DOMAIN-SUFFIX,paperpaper.ru
@@ -666,6 +708,7 @@ DOMAIN-SUFFIX,pornhub.org
 DOMAIN-SUFFIX,pornolab.net
 DOMAIN-SUFFIX,portal.lviv.ua
 DOMAIN-SUFFIX,posle.media
+DOMAIN-SUFFIX,posthog.com
 DOMAIN-SUFFIX,postimees.ee
 DOMAIN-SUFFIX,pps.whatsapp.net
 DOMAIN-SUFFIX,pravda.com
@@ -688,9 +731,11 @@ DOMAIN-SUFFIX,psiphon.ca
 DOMAIN-SUFFIX,public.parsec.app
 DOMAIN-SUFFIX,qt.io
 DOMAIN-SUFFIX,quickconnect.to
+DOMAIN-SUFFIX,quicknode.com
 DOMAIN-SUFFIX,quiz.directory
 DOMAIN-SUFFIX,quora.com
 DOMAIN-SUFFIX,quora.com.cdn.cloudflare.net
+DOMAIN-SUFFIX,qwant.com
 DOMAIN-SUFFIX,r4.err.ee
 DOMAIN-SUFFIX,radiosakharov.org
 DOMAIN-SUFFIX,radiosvoboda.org
@@ -711,11 +756,16 @@ DOMAIN-SUFFIX,rentry.co
 DOMAIN-SUFFIX,rentry.org
 DOMAIN-SUFFIX,republic.ru
 DOMAIN-SUFFIX,research.net
+DOMAIN-SUFFIX,restream.io
 DOMAIN-SUFFIX,returnyoutubedislikeapi.com
 DOMAIN-SUFFIX,reve.art
 DOMAIN-SUFFIX,rezka-ua.in
 DOMAIN-SUFFIX,rezka.ag
+DOMAIN-SUFFIX,rezka.cc
+DOMAIN-SUFFIX,rezka.fi
+DOMAIN-SUFFIX,rezka.land
 DOMAIN-SUFFIX,rezka.my
+DOMAIN-SUFFIX,rezka.tv
 DOMAIN-SUFFIX,rezkify.com
 DOMAIN-SUFFIX,rezonans.media
 DOMAIN-SUFFIX,rf.dobrochan.net
@@ -732,6 +782,7 @@ DOMAIN-SUFFIX,rule34.xxx
 DOMAIN-SUFFIX,rus.delfi.ee
 DOMAIN-SUFFIX,rus.jauns.lv
 DOMAIN-SUFFIX,ruscryde.net
+DOMAIN-SUFFIX,rustorka.com
 DOMAIN-SUFFIX,rutor.info
 DOMAIN-SUFFIX,rutor.is
 DOMAIN-SUFFIX,rutor.org
@@ -836,6 +887,7 @@ DOMAIN-SUFFIX,sputnikipogrom.com
 DOMAIN-SUFFIX,squadbustersgame.com
 DOMAIN-SUFFIX,squareup.com
 DOMAIN-SUFFIX,squietpc.com
+DOMAIN-SUFFIX,startmail.com
 DOMAIN-SUFFIX,startpage.com
 DOMAIN-SUFFIX,static.lostfilm.top
 DOMAIN-SUFFIX,static.whatsapp.net
@@ -908,6 +960,7 @@ DOMAIN-SUFFIX,tiktokcdn.com
 DOMAIN-SUFFIX,tiktokd.net
 DOMAIN-SUFFIX,tiktokd.org
 DOMAIN-SUFFIX,tiktokv.com
+DOMAIN-SUFFIX,tiktokv.eu
 DOMAIN-SUFFIX,tiktokv.us
 DOMAIN-SUFFIX,tiktokw.us
 DOMAIN-SUFFIX,timberland.de
@@ -923,6 +976,7 @@ DOMAIN-SUFFIX,trae.ai
 DOMAIN-SUFFIX,trailblazer.me
 DOMAIN-SUFFIX,trailhead.com
 DOMAIN-SUFFIX,trellix.com
+DOMAIN-SUFFIX,tria.ge
 DOMAIN-SUFFIX,trueblackmetalradio.com
 DOMAIN-SUFFIX,truthsocial.com
 DOMAIN-SUFFIX,tsmc.com
@@ -960,6 +1014,7 @@ DOMAIN-SUFFIX,ukr.radio
 DOMAIN-SUFFIX,ukrtelcdn.net
 DOMAIN-SUFFIX,unian.ua
 DOMAIN-SUFFIX,unscreen.com
+DOMAIN-SUFFIX,unsplash.com
 DOMAIN-SUFFIX,upwork.com
 DOMAIN-SUFFIX,us-east-1.aiv-delivery.net
 DOMAIN-SUFFIX,usa.one
@@ -996,6 +1051,7 @@ DOMAIN-SUFFIX,watchguard.com
 DOMAIN-SUFFIX,watermarkremover.io
 DOMAIN-SUFFIX,wbgames.com
 DOMAIN-SUFFIX,weather.com
+DOMAIN-SUFFIX,webmd.com
 DOMAIN-SUFFIX,webnames.ca
 DOMAIN-SUFFIX,webtoons.com
 DOMAIN-SUFFIX,weebly.com
@@ -1060,6 +1116,7 @@ DOMAIN-SUFFIX,yting.com
 DOMAIN-SUFFIX,yummyani.me
 DOMAIN-SUFFIX,zahav.ru
 DOMAIN-SUFFIX,zapier.com
+DOMAIN-SUFFIX,zaxid.net
 DOMAIN-SUFFIX,zbigz.com
 DOMAIN-SUFFIX,zedge.net
 DOMAIN-SUFFIX,zendesk.com
