@@ -23,6 +23,7 @@
 - GeoBlock
 - News
 - Porn
+- H.O.D.C.A (Hetzner, OVH, Digital Ocean, Cloudflare, AWS + Akamai)
 
 ## Сервисы
 - Cloudflare
@@ -50,6 +51,7 @@
 - Tik-Tok
 - Twitter
 - YouTube
+- Discord (domains only)
 
 #### Russia outside
 Списки российских ресурсов, которые доступны только для российских подсетей. Для людей за границей, которым нужен доступ к российским сервисам.
@@ -196,7 +198,7 @@
 <details>
   <summary>Telegram</summary>
 
-- [RAW](https://raw.githubusercontent.com/itdoginfo/allow-domains/refs/heads/main/Categories/telegram.lst)
+- [RAW](https://raw.githubusercontent.com/itdoginfo/allow-domains/refs/heads/main/Services/telegram.lst)
 - [SRS](https://github.com/itdoginfo/allow-domains/releases/latest/download/telegram.srs)
 - [Subnets](https://raw.githubusercontent.com/itdoginfo/allow-domains/refs/heads/main/Subnets/IPv4/telegram.lst)
 
