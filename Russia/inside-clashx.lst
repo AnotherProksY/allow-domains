@@ -154,6 +154,7 @@ DOMAIN-SUFFIX,chat.cdn.whatsapp.net
 DOMAIN-SUFFIX,chat.com
 DOMAIN-SUFFIX,chat.openai.com.cdn.cloudflare.net
 DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,chattti.com
 DOMAIN-SUFFIX,chaturbate.com
 DOMAIN-SUFFIX,cherta.media
 DOMAIN-SUFFIX,chess.com
@@ -725,6 +726,7 @@ DOMAIN-SUFFIX,parallels.net
 DOMAIN-SUFFIX,parallelsaccess.com
 DOMAIN-SUFFIX,paritydeals.com
 DOMAIN-SUFFIX,patreon.com
+DOMAIN-SUFFIX,patreonusercontent.com
 DOMAIN-SUFFIX,patriot.dp.ua
 DOMAIN-SUFFIX,pb.wtf
 DOMAIN-SUFFIX,pcgamesn.com
@@ -1151,6 +1153,7 @@ DOMAIN-SUFFIX,wpengine.com
 DOMAIN-SUFFIX,wunderground.com
 DOMAIN-SUFFIX,www.adspower-ru.com
 DOMAIN-SUFFIX,www.amazon.com
+DOMAIN-SUFFIX,www.chattti.com
 DOMAIN-SUFFIX,www.whatsapp.com
 DOMAIN-SUFFIX,www3.corsair.com
 DOMAIN-SUFFIX,x.ai
