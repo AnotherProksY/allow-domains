@@ -12,6 +12,7 @@
 /ip dns static add name=7tv.io type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=9tv.co.il type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=a-vrv.akamaized.net type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=a0.muscache.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=abercrombie.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=abook-club.ru type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=academy.terrasoft.ua type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
@@ -210,6 +211,7 @@
 /ip dns static add name=cvedetails.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=cyberghostvpn.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=cyxymu.info type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=d0a7e.airbnb.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=daemon-tools.cc type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=dailylviv.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=danbooru.donmai.us type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
@@ -1162,6 +1164,8 @@
 /ip dns static add name=wpengine.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=wunderground.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=www.adspower-ru.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=www.airbnb.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=www.airbnb.ru type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=www.amazon.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=www.chattti.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=www.whatsapp.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
