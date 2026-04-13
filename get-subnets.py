@@ -22,6 +22,11 @@ ASN_SERVICES = {
 
 ASN_TELEGRAM = ['44907', '59930', '62014', '62041', '211157']
 TELEGRAM = 'telegram.lst'
+# Subnets not announced via ASN but confirmed as Telegram infrastructure
+TELEGRAM_V4 = [
+    '5.28.192.0/18',  # TELEGRAM-MESSENGER-INFRA-NET
+]
+
 CLOUDFLARE = 'cloudflare.lst'
 CLOUDFRONT = 'cloudfront.lst'
 
@@ -163,7 +168,7 @@ if __name__ == '__main__':
     print(f'Fetching {TELEGRAM}...')
     ipv4_telegram_file, ipv6_telegram_file = download_subnets(TELEGRAM_CIDR_URL)
     ipv4_telegram_asn, ipv6_telegram_asn = fetch_asn_prefixes(ASN_TELEGRAM)
-    ipv4_telegram = subnet_summarization(ipv4_telegram_file + ipv4_telegram_asn)
+    ipv4_telegram = subnet_summarization(ipv4_telegram_file + ipv4_telegram_asn + TELEGRAM_V4)
     ipv6_telegram = subnet_summarization(ipv6_telegram_file + ipv6_telegram_asn)
     write_subnets_to_file(ipv4_telegram, f'{IPv4_DIR}/{TELEGRAM}')
     write_subnets_to_file(ipv6_telegram, f'{IPv6_DIR}/{TELEGRAM}')
