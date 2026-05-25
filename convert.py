@@ -292,7 +292,12 @@ if __name__ == '__main__':
     # Ukraine
     Path("Ukraine").mkdir(parents=True, exist_ok=True)
 
-    urllib.request.urlretrieve("https://uablacklist.net/domains.txt", "uablacklist-domains.lst")
+    with urllib.request.urlopen("https://raw.githubusercontent.com/uablacklist/uablacklist.net/master/gen/scripts/domains.json") as resp:
+        uablacklist_data = json.loads(resp.read().decode())
+    with open("uablacklist-domains.lst", 'w') as f:
+        for domain in uablacklist_data.keys():
+            f.write(f"{domain}\n")
+
     urllib.request.urlretrieve("https://raw.githubusercontent.com/zhovner/zaborona_help/master/config/domainsdb.txt", "zaboronahelp-domains.lst")
 
     ua_lists = ['uablacklist-domains.lst', 'zaboronahelp-domains.lst', uaDomainsSrc]
@@ -329,9 +334,11 @@ if __name__ == '__main__':
     # Discord (domains + UDP subnets on high ports)
     discord_subnets = lines_from_file('Subnets/IPv4/discord.lst')
     discord_domains = lines_from_file('Services/discord.lst')
+    discord_cf_subnets = ["104.16.0.0/12"]
     srs_rule('discord', [
         {"domain_suffix": discord_domains},
         {"network": ["udp"], "ip_cidr": discord_subnets, "port_range": ["50000:65535"]},
+        {"network": ["udp"], "ip_cidr": discord_cf_subnets, "port_range": ["19000:20000"]},
     ])
 
     # Mihomo main
