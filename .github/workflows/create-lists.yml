@@ -86,7 +86,7 @@ jobs:
         version: 2.89
 
     - name: Push lists
-      uses: EndBug/add-and-commit@v9.1.4
+      uses: EndBug/add-and-commit@v10.0.0
       with:
         add: 'Russia Ukraine'
         author_name: GitHub Action
@@ -98,7 +98,7 @@ jobs:
       run: echo "TAG_NAME=$(date +'%Y-%m-%d_%H-%M')" >> $GITHUB_ENV
 
     - name: Release
-      uses: softprops/action-gh-release@v2.3.2
+      uses: softprops/action-gh-release@v3.0.0
       with:
         files: |
           ${{ github.workspace }}/SRS/*.srs
