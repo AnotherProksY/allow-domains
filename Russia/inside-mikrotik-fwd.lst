@@ -863,6 +863,7 @@
 /ip dns static add name=rentry.org type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=republic.ru type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=research.net type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=resend.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=restream.io type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=returnyoutubedislikeapi.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=reve.art type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost

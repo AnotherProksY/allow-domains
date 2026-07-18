@@ -863,6 +863,7 @@ nftset=/rentry.co/4#inet#fw4#vpn_domains
 nftset=/rentry.org/4#inet#fw4#vpn_domains
 nftset=/republic.ru/4#inet#fw4#vpn_domains
 nftset=/research.net/4#inet#fw4#vpn_domains
+nftset=/resend.com/4#inet#fw4#vpn_domains
 nftset=/restream.io/4#inet#fw4#vpn_domains
 nftset=/returnyoutubedislikeapi.com/4#inet#fw4#vpn_domains
 nftset=/reve.art/4#inet#fw4#vpn_domains

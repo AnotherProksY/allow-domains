@@ -863,6 +863,7 @@ ipset=/rentry.co/vpn_domains
 ipset=/rentry.org/vpn_domains
 ipset=/republic.ru/vpn_domains
 ipset=/research.net/vpn_domains
+ipset=/resend.com/vpn_domains
 ipset=/restream.io/vpn_domains
 ipset=/returnyoutubedislikeapi.com/vpn_domains
 ipset=/reve.art/vpn_domains
