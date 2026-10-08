@@ -23,7 +23,7 @@ SUBNET_SERVICES = [
     'cloudflare', 'hetzner', 'ovh', 'digitalocean',
     'cloudfront', 'roblox', 'google_meet',
 ]
-ExcludeServices = {"telegram.lst", "cloudflare.lst", "google_ai.lst", "google_play.lst", 'hetzner.lst', 'ovh.lst', 'digitalocean.lst', 'cloudfront.lst', 'hodca.lst', 'roblox.lst', 'google_meet.lst'}
+ExcludeServices = {"telegram.lst", "cloudflare.lst", "google_play.lst", 'hetzner.lst', 'ovh.lst', 'digitalocean.lst', 'cloudfront.lst', 'hodca.lst', 'roblox.lst', 'google_meet.lst'}
 
 def collect_files(src):
     files = []
