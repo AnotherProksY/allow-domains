@@ -31,9 +31,14 @@ DOMAIN-SUFFIX,agents.media
 DOMAIN-SUFFIX,ahrefs.com
 DOMAIN-SUFFIX,ai-chat.bsg.brave.com
 DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,ai.google.dev
+DOMAIN-SUFFIX,aida.googleapis.com
 DOMAIN-SUFFIX,aircanada.com
+DOMAIN-SUFFIX,aisandbox-pa.googleapis.com
+DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,aiv-delivery.net
 DOMAIN-SUFFIX,akc.org
+DOMAIN-SUFFIX,alkalimakersuite-pa.clients6.google.com
 DOMAIN-SUFFIX,all3dp.com
 DOMAIN-SUFFIX,allegro.pl
 DOMAIN-SUFFIX,alphacoders.com
@@ -65,6 +70,10 @@ DOMAIN-SUFFIX,annas-archive.org
 DOMAIN-SUFFIX,ansys.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,anthropic.qualtrics.com
+DOMAIN-SUFFIX,antigravity-pa.googleapis.com
+DOMAIN-SUFFIX,antigravity-unleash.goog
+DOMAIN-SUFFIX,antigravity.google
+DOMAIN-SUFFIX,antigravity.googleapis.com
 DOMAIN-SUFFIX,any.do
 DOMAIN-SUFFIX,aol.com
 DOMAIN-SUFFIX,api.adspower.net
@@ -100,6 +109,7 @@ DOMAIN-SUFFIX,babook.org
 DOMAIN-SUFFIX,backend-v2.crixet.com
 DOMAIN-SUFFIX,baginya.org
 DOMAIN-SUFFIX,baikal-journal.ru
+DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,baserow.io
 DOMAIN-SUFFIX,bato.to
 DOMAIN-SUFFIX,bbc.co.uk
@@ -183,6 +193,7 @@ DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,clevelandclinic.org
 DOMAIN-SUFFIX,clickup.com
 DOMAIN-SUFFIX,client.salesmartly.com
+DOMAIN-SUFFIX,clients6.google.com
 DOMAIN-SUFFIX,clip.opus.pro
 DOMAIN-SUFFIX,cloudtorrents.com
 DOMAIN-SUFFIX,cms-twdigitalassets.com
@@ -234,6 +245,8 @@ DOMAIN-SUFFIX,data.cline.bot
 DOMAIN-SUFFIX,deckbrew.xyz
 DOMAIN-SUFFIX,decrypt.day
 DOMAIN-SUFFIX,deepl.com
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,deepmind.google
 DOMAIN-SUFFIX,deepstatemap.live
 DOMAIN-SUFFIX,deezer.com
 DOMAIN-SUFFIX,delfi.lt
@@ -348,6 +361,7 @@ DOMAIN-SUFFIX,filmix.day
 DOMAIN-SUFFIX,filmix.fan
 DOMAIN-SUFFIX,filmix.fm
 DOMAIN-SUFFIX,filmix.la
+DOMAIN-SUFFIX,firebaseinstallations.googleapis.com
 DOMAIN-SUFFIX,fivetran.com
 DOMAIN-SUFFIX,flibusta.is
 DOMAIN-SUFFIX,flibusta.net
@@ -394,6 +408,11 @@ DOMAIN-SUFFIX,gaming.amazon.com
 DOMAIN-SUFFIX,gdb.rferl.org
 DOMAIN-SUFFIX,geforcenow.com
 DOMAIN-SUFFIX,gelbooru.com
+DOMAIN-SUFFIX,geller-pa.googleapis.com
+DOMAIN-SUFFIX,gemini.google
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,generativeai.google
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
 DOMAIN-SUFFIX,genspark.ai
 DOMAIN-SUFFIX,geolocation.onetrust.com
 DOMAIN-SUFFIX,germania.one
@@ -529,6 +548,8 @@ DOMAIN-SUFFIX,jetbrains.team
 DOMAIN-SUFFIX,jnn-pa.googleapis.com
 DOMAIN-SUFFIX,joesandbox.com
 DOMAIN-SUFFIX,jskor.ill.in.ua
+DOMAIN-SUFFIX,jules.google
+DOMAIN-SUFFIX,jules.google.com
 DOMAIN-SUFFIX,jut-su.net
 DOMAIN-SUFFIX,jut.su
 DOMAIN-SUFFIX,jw-russia.org
@@ -565,6 +586,7 @@ DOMAIN-SUFFIX,kovcheg.live
 DOMAIN-SUFFIX,krymr.com
 DOMAIN-SUFFIX,kupujemprodajem.com
 DOMAIN-SUFFIX,kym-cdn.com
+DOMAIN-SUFFIX,labs.google
 DOMAIN-SUFFIX,lambdalabs.com
 DOMAIN-SUFFIX,lamcdn.net
 DOMAIN-SUFFIX,langdock.com
@@ -608,6 +630,7 @@ DOMAIN-SUFFIX,mailfence.com
 DOMAIN-SUFFIX,mailinator.com
 DOMAIN-SUFFIX,mailo.com
 DOMAIN-SUFFIX,make.com
+DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,malwarebytes.com
 DOMAIN-SUFFIX,manga-chan.me
 DOMAIN-SUFFIX,mangadex.org
@@ -713,6 +736,8 @@ DOMAIN-SUFFIX,nnmstatic.win
 DOMAIN-SUFFIX,nordaccount.com
 DOMAIN-SUFFIX,nordcdn.com
 DOMAIN-SUFFIX,nordvpn.com
+DOMAIN-SUFFIX,notebooklm.google
+DOMAIN-SUFFIX,notebooklm.google.com
 DOMAIN-SUFFIX,notepad-plus-plus.org
 DOMAIN-SUFFIX,notion-emojis.s3-us-west-2.amazonaws.com
 DOMAIN-SUFFIX,notion-static.com
@@ -882,6 +907,7 @@ DOMAIN-SUFFIX,rima.media
 DOMAIN-SUFFIX,riperam.org
 DOMAIN-SUFFIX,riseup.net
 DOMAIN-SUFFIX,roar-review.com
+DOMAIN-SUFFIX,robinfrontend-pa.googleapis.com
 DOMAIN-SUFFIX,root-nation.com
 DOMAIN-SUFFIX,roskomsvoboda.org
 DOMAIN-SUFFIX,rublacklist.net
@@ -1000,6 +1026,7 @@ DOMAIN-SUFFIX,soundcloud.cloud
 DOMAIN-SUFFIX,soundcloud.com
 DOMAIN-SUFFIX,sovetromantica.com
 DOMAIN-SUFFIX,spacelift.io
+DOMAIN-SUFFIX,speechs3proto2-pa.googleapis.com
 DOMAIN-SUFFIX,speedtest.net
 DOMAIN-SUFFIX,spektr.press
 DOMAIN-SUFFIX,spiceworks.com
@@ -1017,6 +1044,7 @@ DOMAIN-SUFFIX,static.lostfilm.top
 DOMAIN-SUFFIX,static.whatsapp.net
 DOMAIN-SUFFIX,statology.org
 DOMAIN-SUFFIX,steamstat.info
+DOMAIN-SUFFIX,stitch.withgoogle.com
 DOMAIN-SUFFIX,strana.news
 DOMAIN-SUFFIX,strana.today
 DOMAIN-SUFFIX,strava.com
